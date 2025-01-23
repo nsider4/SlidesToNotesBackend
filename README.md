@@ -15,6 +15,10 @@ This is the backend for the **SlidesToNotes** application, a tool that allows us
   - **MIME Sniffing Attacks**
   - **Man-in-the-Middle (MitM) Attacks**
 
+### 🔗 Related Resources  
+
+- **Frontend Repository**: [SlidesToNotes](https://github.com/nsider4/SlidesToNotes)  
+- **Live Website**: [SlidesToNotes Application](https://slides-to-notes.vercel.app/)  
 
 ## 🔧 Tech Stack  
 
