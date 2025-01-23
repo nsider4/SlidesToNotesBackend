@@ -8,12 +8,12 @@ This is the backend for the **SlidesToNotes** application, a tool that allows us
 - Download generated notes in a user-friendly format.
 - Download metadata, including notes and images, in a ZIP file.
 - Built-in security measures:
-  - **Denial of Service (DoS) / Distributed Denial of Service (DDoS)**: Limits excessive requests from a single client.
-  - **Brute Force Attacks**: Prevents rapid, repeated upload attempts.
-  - **Resource Exhaustion**: Protects against overloading server resources.
-  - **Cross-Site Scripting (XSS)**: Restricts content loading sources to block malicious scripts.
-  - **MIME Sniffing Attacks**: Prevents browsers from misinterpreting file types.
-  - **Man-in-the-Middle (MitM) Attacks**: Enforces HTTPS to encrypt all communications.
+  - **Denial of Service (DoS) / Distributed Denial of Service (DDoS)**
+  - **Brute Force Attacks**
+  - **Resource Exhaustion**
+  - **Cross-Site Scripting (XSS)**
+  - **MIME Sniffing Attacks**
+  - **Man-in-the-Middle (MitM) Attacks**
 
 
 ## 🔧 Tech Stack  
